@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "68da906de5613bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a610abc97ce4b4e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "630db7ad1e96e72f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "612b2bde447fd1a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "154de24f16ed5663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19e697a43b60557e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6171069fea883db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6284c1754f2778fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42f31d75bd5b90ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c125d259ea6807e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c2bc92c81e81ccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c949de4003ea83a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "989f4310273ef963",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f46c0e9830912610",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "19e697a43b60557e",
+  "lastOpenFiles": [
+    "INGLES.md",
+    "VIM.md",
+    "EjecutarUnPlaybook.md",
+    "GRAMÁTICA Y ESTRUCTURA DE ORACIONES.md",
+    "ANSIBLE.md",
+    "Untitled.canvas",
+    "DUC.md",
+    "PLayBooks.md",
+    "MyNoIP.md",
+    "crecimiento del bambu.md",
+    "KAI ZEN.md",
+    "ssh.md",
+    "COMANDOS TERMINAL.md",
+    "DEtodoUNpoco.md",
+    "fondos indexados.md",
+    "Untitled 1.md"
+  ]
+}
