@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "9dcd08032eb88f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "token.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "token.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,24 +139,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9dcd08032eb88f73",
+  "active": "19e697a43b60557e",
   "lastOpenFiles": [
     "token.md",
-    "INGLES.md",
+    "ssh.md",
+    "fondos indexados.md",
+    "crecimiento del bambu.md",
     "VIM.md",
-    "EjecutarUnPlaybook.md",
-    "GRAMÁTICA Y ESTRUCTURA DE ORACIONES.md",
-    "ANSIBLE.md",
-    "Untitled.canvas",
-    "DUC.md",
     "PLayBooks.md",
     "MyNoIP.md",
-    "crecimiento del bambu.md",
     "KAI ZEN.md",
-    "ssh.md",
-    "COMANDOS TERMINAL.md",
+    "INGLES.md",
+    "GRAMÁTICA Y ESTRUCTURA DE ORACIONES.md",
+    "EjecutarUnPlaybook.md",
+    "DUC.md",
     "DEtodoUNpoco.md",
-    "fondos indexados.md",
+    "COMANDOS TERMINAL.md",
+    "ANSIBLE.md",
+    "Untitled.canvas",
     "Untitled 1.md"
   ]
 }
